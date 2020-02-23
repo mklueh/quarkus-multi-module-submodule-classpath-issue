@@ -1,0 +1,1 @@
+./gradlew clean && ./gradlew :application:quarkusBuild && java -jar application/build/*.jar
