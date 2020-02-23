@@ -1,6 +1,6 @@
 # Multi-Module Quarkus submodule not contained in classpath with :quarkusBuild
 
-This example is not functional and is meant to reproduce Issue 
+This example is not functional and is meant to reproduce Issue https://github.com/quarkusio/quarkus/issues/7365
 
 ## Usage
 
